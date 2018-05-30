@@ -49,7 +49,7 @@ public class EduUsagesCollector extends ProjectUsagesCollector {
   }
 
   public static void courseUploaded() {
-    advanceKey("uploadCourse");
+    advanceKey("updateCourse");
   }
 
   public static void createdCourseArchive() {
